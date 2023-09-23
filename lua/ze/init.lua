@@ -1,0 +1,5 @@
+require("ze.remap")
+require("ze.packer")
+require("ze.opts")
+require("ze.completion")
+require("ze.treesitter")
